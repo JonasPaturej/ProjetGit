@@ -1,2 +1,2 @@
 # ProjetGit
-Version 2
+Version 2b
